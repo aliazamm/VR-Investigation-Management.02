@@ -1,4 +1,4 @@
-package com.example.webviewapp;
+package com.VIMS;
 
 import android.app.Activity;
 import android.app.DownloadManager;
