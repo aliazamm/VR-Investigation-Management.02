@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.webviewapp'
+    namespace 'VR Investigation Management'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.example.webviewapp'
+        applicationId 'VR Investigation Management'
         minSdk 23
         targetSdk 35
         versionCode 1
