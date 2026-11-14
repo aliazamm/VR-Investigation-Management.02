@@ -1,4 +1,4 @@
-package com.VIMS;
+package com.VR Investigation Management;
 
 import android.app.Activity;
 import android.app.DownloadManager;
